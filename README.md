@@ -4,9 +4,9 @@
 
 Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a foundation of professional development engineering student, and later on professional an engineer.
 
-* Topic 0 [Introduction](introduction.md): Introduction to professional engineering and about what skills are needed to be engineer
+* Topic 0 [Introduction](introduction.md): Introduction to professional engineering and about what skills are needed to be engineer. [[material]](material-introduction.md)
 
-* Topic 1 [Project Launch](project.md): Work effectively in a team. Apply design, project managment, risk managment and decision making techniques to engineering design tasks.
+* Topic 1 [Project Launch](project.md): Work effectively in a team. Apply design, project managment, risk managment and decision making techniques to engineering design tasks. [[material]](material-project.md)
 
 * Topic 2 [Researching & Referncing](researching.md): Find, Evaluate, Reference and manage information in a professional manner.
 
