@@ -1,96 +1,93 @@
-# Introduction to professional Engineering
+# Introduction
 
-## Engineering Fundamental
+## Professional Engineering
 
-### Purpose
+## Working in Teams
 
-Engineer aim to design products, systems, infrastructure and services that produce a safer, healthier and more sustianable world. Hence improve the quality of life of everyone.
+### Purpose of Working in a Team
 
-#### Examples
+* Enssential professional skill
+* Combining
+  * Skills and knowledge
+  * Creativity
+  * Diversity
+* Good for
 
-* [Aztec Architecture](https://en.wikipedia.org/wiki/Aztec_architecture)
-* [Pompei City](https://en.wikipedia.org/wiki/Pompeiij)
-* [Blackfriars Bridge](https://en.wikipedia.org/wiki/Blackfriars_Bridge)
+### The Cycle of a Team
 
-### Engineering Skills
+### Necassity to Work in a Team
 
-#### Types of Work
+### Roles
 
-1. Job-specific tasks (i.e. the techinal task)
-2. Non-job specific tasks (e.g. an engineering performing administration)
-3. Written or Oral communication
-4. Demonstrating Effort
-5. Maintainning personal Discipline
-6. Facilliating and team performace
-7. Supervision and Leadership
-8. Managment and administration
+### Leadership
 
-#### Skills in Demand
+### Dealing with Conflict
 
-The most important selection criteria when recruiting graduates according to Graduate Outlook Survery(2015) - Graduate carrer:
-*Insert image here*
+### Team charter & Code of Conduct
 
-## Engineering design process
+* No set struture, but must be agreed upon
+* Roles and responsibilities
+* Acceptable team conduct
+  * Attendance at meetings
+  * Participation
+* Meeting schedule
+* Communication strategies
+* Review processes
+* Procedure to deal with lack of participation
 
-### Definition of Design
+## Engineering Projects
 
-* To design is to pull together somthing new or to arrange existing things in a new way to satisfy a recognised need of society. [[1]](https://)
+### Project Managment
 
-* Design established and defines solutions to and pertinent structures for problems not solved before, or new solutions to problems previously solved in a different way. [[2]](https://)
-
-### Purpose of design process
-
-* Breaking big problems down into small and manageable chunks (i.e. Stages and Gates).
-* Repeatable and flexible suits for different problems 
-
-### The Players
-
-* **Client** (wants the design conceived)
-
-* **User** (employ or operate what is being designed)
-
-* **Designer** (solves the clients problem in a way which meets the users needs)
-
-> [!NOTE]
-> Whilst not considered as one of the direct actors in the design there are others skateholders who may influence (i.e. gorverment, the general public, ..)
-
-### Design Process
-
-#### Process
+* **Project**: "Temporary endearvour undertake to create a unique product or service" (Project Managment 2028)
+* **Managment**: "The appplication od knowledge, skill, tools and techniques to project activities to meet project requirements" (Project Managment Institute 2028)
 
 > <details>
-> 
-> ```
-> ┌─────┐    ┌────────────┐┌───────────────┐   ┌──────┐
-> │Start│    │Design Brief││Design Proposal│   │Finish│
-> └──┬──┘    └─────┬──────┘└───────┬───────┘   └──┬───┘
->    │             │               │              │    
->    │  Scooping   │               │              │    
->    │────────────>│               │              │    
->    │             │               │              │    
->    │Organizations│               │              │    
->    │────────────>│               │              │    
->    │             │               │              │    
->    │             │    Design     │              │    
->    │             │──────────────>│              │    
->    │             │               │              │    
->    │             │ Design Teams  │              │    
->    │             │──────────────>│              │    
->    │             │               │              │    
->    │             │               │Implementation│    
->    │             │               │─────────────>│    
->    │             │               │              │    
->    │             │               │Organizations │    
->    │             │               │─────────────>│    
-> ┌──┴──┐    ┌─────┴──────┐┌───────┴───────┐   ┌──┴───┐
-> │Start│    │Design Brief││Design Proposal│   │Finish│
-> └─────┘    └────────────┘└───────────────┘   └──────┘
-> ```
+>     <IMG src="assets/introduction/example11.png" alt="graph11" width=70%/>
 > </details>
 
-#### Phase
+
+> [!NOTE]
+> * **Objectives**: What the project trying to achive
+> * **Deliverabilities**: Product or services, and acncillaries, including reports
+
+## Project Managment life cycle
 
 ```
+┌──────────┐
+│Initiating│
+└┬─────────┘
+┌▽──────┐   
+│Planing│   
+└┬──────┘   
+┌▽────────┐ 
+│Executing│ 
+└┬────────┘ 
+┌▽─────────┐
+│Monitoring│
+└┬─────────┘
+┌▽──────┐   
+│Closing│   
+└───────┘   
+
 ```
+### Project Charter
 
+* Key personnel
+  * Inc, project manager
+* Objectives
 
+### Project Scope
+
+* Project scope : is the scope which projects cover and should be clearly defined
+  * Inclusion and Exclusion
+  * seek agreement with skateholers
+
+### Project Planning
+
+- [ ] Define activities: Work Breakdown Structures
+- [ ] Identify sub-tasks
+- [ ] Sequence activites
+- [ ] Estimate required sources
+- [ ] Estimate duration
+- [ ] Develop schedule; **Grantt chart**

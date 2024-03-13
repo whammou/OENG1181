@@ -28,7 +28,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 ## Labs
 
-* Lab 1 Professional Portfolio [[assign]](lab/porfolio.md)
+* Lab 1 Professional Portfolio [[assign]](https://mega.nz/file/GXhygKYS#s_f_yuPszi1t5CX1UXsQvWkeAEE8AKSPiVPQEOF5qnE) [[activity]](https://mega.nz/file/iXJDAIhA#KDsHEHFl0DcC232MpsfY40km3dNEMpsVfbFhIMSnZfg)
 
 ## Assessments
 
