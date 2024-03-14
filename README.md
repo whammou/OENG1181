@@ -6,15 +6,15 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Topic 0 [Introduction](introduction.md): Introduction to professional engineering and about what skills are needed to be engineer. [[material]](material-introduction.md)
 
-* Topic 1 [Project Launch](project.md): Work effectively in a team. Apply design, project managment, risk managment and decision making techniques to engineering design tasks. [[material]](material-project.md)
+* Topic 1 [Project Launch](project.md): Work effectively in a team. Apply design, project management, risk management and decision making techniques to engineering design tasks. [[material]](material-project.md)
 
 * Topic 2 [Researching & Referncing](researching.md): Find, Evaluate, Reference and manage information in a professional manner.
 
-* Topic 3 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of prefessional engineers.
+* Topic 3 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
 * Topic 4 [Report writing](report.md): Write a professional engineering report.
 
-* Topic 5 [Carrer & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employabikuty Skills and the Personal Program at RMIT.
+* Topic 5 [Carrer & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
 * Topic 6 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
@@ -24,7 +24,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Topic 9 [Design Project Support](design.md): EWB project work.
 
-* Topic 10 [Design Proposal Submission & Celebration](submission.md): Online session where all teams and their team members share thier experiences in this project.
+* Topic 10 [Design Proposal Submission & Celebration](submission.md): Online session where all teams and their team members share their experiences in this project.
 
 ## Labs
 
