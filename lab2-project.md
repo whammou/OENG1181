@@ -250,4 +250,24 @@ engineers/designer the solutions will always be wrong
 
 <IMG src="./assets/project/lab-example52.jpg" alt="design-core" width=100%/>
 
+#### Identify Design Requirements
+
+* `Design requirement` are likely to be identified during the `dicovery activity` as this is when you gathering insights into the context.
+
+> <details>
+>     <summary>Example</summary>
+>     For example if you have worked on water supply projects in Australia previously you are likely to know (or at least know where to look) the relevant legislation that your design will have to comply with. You might also see that you need your solution to integrate with other designs that the client might be using.
+> </details>
+
+> <details>
+>     <summary>Exmaple</summary>
+>     example if you are designing a water filter then the component which receives the water from the source needs to be correctly sized so that it can accept the incoming pipe. Your client may also have existing logistics networks that they use.
+> </details>
+
+#### Writing Design Requirements
+
+* __Focused__ - `design requirement` should state `what` the design achive but NOT `how` the design should achive the requirements
+* __Clear__ - `design requirement` should be clear, a rule of thumb is that an engineer coming into the project should be able to read the `requirement` and not have any questions
+* __Measurable__ - When completing screening activities later in the process, each design option will bescored against the `design objective`. This means that the _requirements_ need to be measurable
+* __Testable__ - In a later phase of the `design process` you might evaluate the final design against the `design requirement`. Knowing there is a way to test the design against the requirements can help in this instance
 
