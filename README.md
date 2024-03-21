@@ -4,31 +4,35 @@
 
 Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a foundation of professional development engineering student, and later on professional an engineer.
 
-* Topic 0 [Introduction](introduction.md): Introduction to professional engineering and about what skills are needed to be engineer. [[material]](material-introduction.md)
+* Lecture 1 [Introduction](w1-introduction.md): Introduction to professional engineering and about what skills are needed to be engineer. 
 
-* Topic 1 [Project Launch](project.md): Work effectively in a team. Apply design, project management, risk management and decision making techniques to engineering design tasks. [[material]](material-project.md)
+* Lecture 2 [Project Launch](w2-project.md): Work effectively in a team. Apply design, project management, risk management and decision making techniques to engineering design tasks. 
 
-* Topic 2 [Researching & Referncing](researching.md): Find, Evaluate, Reference and manage information in a professional manner.
+* Lecture 3 [Researching & Referncing](w3-researching.md): Find, Evaluate, Reference and manage information in a professional manner.
 
-* Topic 3 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
+* Lecture 4 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
-* Topic 4 [Report writing](report.md): Write a professional engineering report.
+* Lecture 5 [Report writing](report.md): Write a professional engineering report.
 
-* Topic 5 [Carrer & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
+* Lecture 7 [Carrer & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
-* Topic 6 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
+* Lecture 8 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
-* Topic 7 [Reflecion Wrtiting](reflecion.md): Lecture on reflection writing.
+* Lecture 9 [Reflecion Wrtiting](reflecion.md): Lecture on reflection writing.
 
-* Topic 8 [Technical Viability](technical.md): Lecture session for the workshop of Technical Viability.
+* Lecture 10 [Technical Viability](technical.md): Lecture session for the workshop of Technical Viability.
 
-* Topic 9 [Design Project Support](design.md): EWB project work.
+* Lecture 11 [Design Project Support](design.md): EWB project work.
 
-* Topic 10 [Design Proposal Submission & Celebration](submission.md): Online session where all teams and their team members share their experiences in this project.
+* Lecture 12 [Design Proposal Submission & Celebration](submission.md): Online session where all teams and their team members share their experiences in this project.
 
 ## Labs
 
-* Lab 1 Professional Portfolio [[assign]](https://mega.nz/file/GXhygKYS#s_f_yuPszi1t5CX1UXsQvWkeAEE8AKSPiVPQEOF5qnE) [[activity]](https://mega.nz/file/iXJDAIhA#KDsHEHFl0DcC232MpsfY40km3dNEMpsVfbFhIMSnZfg)
+* Lab 1 Professional Portfolio [[assign]](https://mega.nz/file/GXhygKYS#s_f_yuPszi1t5CX1UXsQvWkeAEE8AKSPiVPQEOF5qnE) [[activity]](https://mega.nz/file/iXJDAIhA#KDsHEHFl0DcC232MpsfY40km3dNEMpsVfbFhIMSnZfg) [[note]](lab1-introduction.md)
+
+* Lab 2 Project Discovery [[note]](lab2-project.md)
+
+* Lab 3 Design Tutorial 3 [[note]](lab3-referencing.md)
 
 ## Assessments
 
