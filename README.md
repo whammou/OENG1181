@@ -8,7 +8,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 2 [Project Launch](w2-project.md): Work effectively in a team. Apply design, project management, risk management and decision making techniques to engineering design tasks. 
 
-* Lecture 3 [Researching & Referncing](w3-researching.md): Find, Evaluate, Reference and manage information in a professional manner.
+* Lecture 3 [Researching & Referencing](w3-referencing.md): Find, Evaluate, Reference and manage information in a professional manner.
 
 * Lecture 4 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
