@@ -149,3 +149,40 @@ The most important selection criteria when recruiting graduates according to Gra
   * Before / After you graduate
   * Writing a reflection report is mandatory for gaining `Chartered Engineering` status
 * Prediction and Evaluation as `reflective practice`  
+  * The project managment side will be relatively straightforward
+  * Spend less hour on design work
+  * Get experience on manage a meeting
+
+> [!TIP]
+> if at the end of the project the process was not as smooth. Reflective method can be an easy tool to look back on what has gone wrong during the whole process
+
+* Mediums through which to reflect
+  * Pedagogical conversation
+  * Reflective journals
+  * Professional inquiry
+  * Mentors or critical friends
+  * Professional Learning programs
+
+#### Reflective Practices
+
+* There are several models of reflective practive. The [Gary Rolfe](https://nursinganswers.net/reflective-guides/rolfe-reflective-cycle.php) is a good one to start with because it is straight forwards.
+
+##### The Rolfe Model - What, so What, now What
+
+`The Rolfe Model is based arounf there core prompts: What, So What, Now What`
+
+<IMG src="https://images.nursinganswers.net/reflective-cycles/rolfe-model-of-reflection.png" alt="Rolfe" width=100%/>
+
+* __What__ - The `What` prompts you to descrive the context and the role you were in, what was going on
+  * What `physically` happened 
+  * What `mentally` happened 
+  * What `emotionally` happened
+* __So What__ - The `so what` prompt asks you why the insights you have gained from the `what` prompt matters, what is the relavance
+* __Now What__ - The `now what` prompt asks you to consider how you will apply what you have learnt in your practice
+
+> [!TIP]
+> Go through the questions one-by-one and write a reflection that answers these questions. Try to write without editing. The goal here is not for the writing to be perfect, but the reflect
+
+## Additional Resources
+
+* [Rolfe Framework](https://youtu.be/vGyjF9Ngd8Y)

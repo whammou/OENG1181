@@ -60,7 +60,7 @@
 
 > __EWB CHALLENGE__
 > * Problem to adress:
->     * Read document 2023 EWB Challenge Design Brief with Pu Ngaoi village in Mondlkin province available on `canvas`
+>     * Read document 2023 EWB Challenge Design Brief with Pu Ngaol village in Mondlkin province available on `canvas`
 >     * Select your design topics by the end of **Week 3**
 > * Design context and information gathering
 >     * Ultilise the backgrounf information that EWB have gathered
