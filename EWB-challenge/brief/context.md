@@ -12,6 +12,9 @@
 
 ## Pu Ngaol village in Mondulkiri province, _Cambodia_
 
+> Explore Pu Ngaol: 
+> Visit this [walkthrough](https://ewbchallenge.org/challenge/mondulkiri-cambodia/interactives-360-site-walkthroughs/)
+
 ### Culture
 
 * Language barrier (`Bunong` vs `Khmer`)

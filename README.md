@@ -1,5 +1,9 @@
 # Introduction to Professional Engineering Pratice (OENG1181, Spring 2024)
 
+## EWB Challenge Section
+
+> Visit [EWB Challenge](./EWB-challenge/README.md) for more details
+
 ## Lectures
 
 Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a foundation of professional development engineering student, and later on professional an engineer.
