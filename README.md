@@ -14,7 +14,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 3 [Researching & Referencing](w3-referencing.md): Find, Evaluate, Reference and manage information in a professional manner.
 
-* Lecture 4 [Risk Managment](risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
+* Lecture 4 [Risk Managment](w4-risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
 * Lecture 5 [Report writing](report.md): Write a professional engineering report.
 
