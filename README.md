@@ -38,6 +38,8 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lab 3 Design Tutorial 3 [[note]](lab3-referencing.md)
 
+* Lab 4 Risk Management [[note]](./lab4-risk.md)
+
 ## Assessments
 
 |  Date|    Details       |  Due   	|
