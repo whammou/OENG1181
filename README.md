@@ -1,4 +1,4 @@
-# Introduction to Professional Engineering Pratice (OENG1181, Spring 2024)
+# Introduction to Professional Engineering Practice (OENG1181, Spring 2024)
 
 ## EWB Challenge Section
 
@@ -14,15 +14,15 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 3 [Researching & Referencing](w3-referencing.md): Find, Evaluate, Reference and manage information in a professional manner.
 
-* Lecture 4 [Risk Managment](w4-risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
+* Lecture 4 [Risk Management](w4-risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
 * Lecture 5 [Report writing](report.md): Write a professional engineering report.
 
-* Lecture 7 [Carrer & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
+* Lecture 7 [Career & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
 * Lecture 8 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
-* Lecture 9 [Reflecion Wrtiting](reflecion.md): Lecture on reflection writing.
+* Lecture 9 [Reflection Writing](reflecion.md): Lecture on reflection writing.
 
 * Lecture 10 [Technical Viability](technical.md): Lecture session for the workshop of Technical Viability.
 
@@ -45,6 +45,6 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 |  Date|    Details       |  Due   	|
 | ------------- |-------------  | ------- |
 |    March 29, 2024    |    [Assignment 1 : Reverse Client Brief](https://rmit.instructure.com/courses/135772/assignments/925225)          | 23:59       |
-|    Apri 19, 2024    |    [Assignment 2: Professional Engineering Profolio](https://rmit.instructure.com/courses/135772/assignments/925221)          |  23:59      |
-|    May 21, 2024    |    [Assigmnet 3: Design Project Report](https://rmit.instructure.com/courses/135772/assignments/925223)          | 23:59       |
+|    Apr 19, 2024    |    [Assignment 2: Professional Engineering Portfolio](https://rmit.instructure.com/courses/135772/assignments/925221)          |  23:59      |
+|    May 21, 2024    |    [Assignment 3: Design Project Report](https://rmit.instructure.com/courses/135772/assignments/925223)          | 23:59       |
 
