@@ -13,7 +13,7 @@
 ## Pu Ngaol village in Mondulkiri province, _Cambodia_
 
 > Explore Pu Ngaol: 
-> Visit this [walkthrough](https://ewbchallenge.org/challenge/mondulkiri-cambodia/interactives-360-site-walkthroughs/)
+> Visit this [walk-through](https://ewbchallenge.org/challenge/mondulkiri-cambodia/interactives-360-site-walkthroughs/)
 
 ### Culture
 
@@ -31,35 +31,35 @@
 * Maintained and graded by Australia mining company
   * Whose gold mine is 20km away from `Saen Monourom`
 * Roads are in poorer condition within the village
-  * Wet season roads become damage by flooding and mudding `=>` dangerous and difficult
+  * Wet season roads become damage by flooding and muddling `=>` dangerous and difficult
 * Every family has at least a motorbike (and some a car)
 
 ### Education
 
-* Literacy rates of the village is low (only 3 women could read Khmer out fo the 12 atteneded to the community EWB workshop)
+* Literacy rates of the village is low (only 3 women could read Khmer out of the 12 attended to the community EWB workshop)
 * Schooling system:
   * 1x __primary school__ (grade 1-6)
   * 1x __secondary school__ (grade 7-9) - nearly 2km from the village
-  * __Highschool__ in `Sean Monourom` - _if affordable_
+  * __High school__ in `Sean Monourom` - _if affordable_
   * _Drop of rate is extremely __high__ (estimated 96%)_ 
 
 ### Language
 
-* Khmer is the official languge and national language of Cambodia
-* Bunong is distinctly related to Khmer and other languages spoken in Camboidan highlands
+* Khmer is the official language and national language of Cambodia
+* Bunong is distinctly related to Khmer and other languages spoken in Cambodian highlands
 
 ### Labour
 
-* Almost everyone in `Pu Ngaol` village participates in rice farming - some owns their own rice fields andemploy other villagers as labourers
+* Almost everyone in `Pu Ngaol` village participates in rice farming - some owns their own rice fields and employ other villagers as labourers
 * People works different labours during dry season
   * Collect resin
 * Some people own a shop
 * There are _NO_ local teacher `=>` outsiders usually take the job
-* Village chief and deputy works with various repsonsilibities 
+* Village chief and deputy works with various responsibilities 
   * Attending commune meeting
   * Voted every 4 years
 * Community members also work as volunteers 
-  * Forst rangers - scout and report illegal activities
+  * Forest rangers - scout and report illegal activities
   * Daily allowance cover their costs on food and fuel - but are given _NO_ wage
 * Unemployment is _high_ in __dry season__
 
@@ -67,7 +67,7 @@
 
 * Both men and women work as 
   * Rice farmers
-  * Colleting resin
+  * Collecting resin
 
 > [!WARNING]
 > Domestic violence is fairly common by both men to women and _vice versa_

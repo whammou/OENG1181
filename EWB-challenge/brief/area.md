@@ -23,7 +23,7 @@
 * Tourism is relatively popular in `Mondulkiri`
   * Waterfalls
   * Wildlife
-* One of the four targeted provinces by the Cambodian goverment for _economic develeopment_
+* One of the four targeted provinces by the Cambodian government for _economic development_
 
 ###### Pu Ngaol Village
 
@@ -31,11 +31,11 @@
 
 * Tourist sites of interest:
   * `Taing Laing` waterfall at `Srae` village
-  * There have been some other attractions identified by the authorities but they deep in the forest `=>` a need for more infrastucture and human resources to host tourism 
+  * There have been some other attractions identified by the authorities but they deep in the forest `=>` a need for more infrastructure and human resources to host tourism 
 
-* In additional to infrastucture, it would require building the capacity of the village to host tourists
+* In additional to infrastructure, it would require building the capacity of the village to host tourists
   * General tourist experience
-  * Safety praticalities e.g
+  * Safety practicalities e.g
     * Cooking
     * Language Skills
 
@@ -49,13 +49,13 @@
   * `Wood` that is used in `Pu Ngaol` village is hard rubber trees and blanks are split into smaller blanks using hand held tools
 
 * __Housing__ - Cambodian houses are built raised from the ground on stilts `=>`protect from flooding and have cooling effect
-  * Traiditional `Bunong` houses are uniquely narrow and tall
+  * Traditional `Bunong` houses are uniquely narrow and tall
   * Houses in `Pu Ngaol` are more similar to common traditional `Khmer` houses
     * Built entirely of wood
     * Square or lightly Rectangular shape
     * Raised and access via stairs or ladders
     * Gabble roofs of con corrugated tin
-    * Balcony platform `or` otherwise a an area underneath to sit outside
+    * Balcony platform `or` otherwise an area underneath to sit outside
     * Consists of 1 large room inside
 
 * __Construction__ - When a house is built the construction process will be coordinated by the most qualified community members 
@@ -66,17 +66,17 @@
 
 #### Opportunities
 
-##### Homestay Ecotourism Facilities
+##### Home stay Ecotourism Facilities
 
-> There is a growing interest in participating in `ecotourim` activities including __homestay__ and __wildlife__ from the community 
+> There is a growing interest in participating in `ecotourim` activities including __home stay__ and __wildlife__ from the community 
 
 * Project should make consideration of topics such as
   * Accessibility
   * Functionality
-  * Suctainability
+  * Sustainability
   * Cultural Appreciation
 
-* Callaborate and Teach the residents how to
+* Collaborate and Teach the residents how to
   * Host an authentic and safe cultural experiences
   * Ensure a sustainable tourism model could also be developed
 
@@ -94,20 +94,20 @@
 > Rising and Falling `water levels` are often unpredictable and dangerous 
 
 * A multi-functional platform could be developed to enable safe access to the river
-* `Adults` are expted to access the river 
+* `Adults` are exited to access the river 
 * Sometimes accompany by `children`
 
 * Students are encouraged to take into account 
   * The varying heights of the river across the year
-  * Child-safe design considerations and accessibility ofthe structre from riverbank
-  * Key functionalities of the infrastucture might include
+  * Child-safe design considerations and accessibility of the structure from riverbank
+  * Key functionalities of the infrastructure might include
     * Safe access to the river
     * Monitoring of the water pump amongst others
 
 ### Additional Information
 
-* Read [Mappong and Valueing Ecosystem Services in Modulkiri: OUtcomes and REcommendations for Sustainbable and Inclusive Land use Planning in Cambodia](https://wwfasia.awsassets.panda.org/downloads/mapping_and_valuing_ecosystem_services_in_mondulkiri_full_report.pdf)
-* Read [Ministry unveils action pla set to guide Mindulkiri tourism evolution](https://www.phnompenhpost.com/business/ministry-unveils-action-plan-set-guide-mondulkiri-tourism-evolution)
+* Read [Mappong and Valuing Ecosystem Services in Module kiri: Outcomes and Recommendations for Sustainable and Inclusive Land use Planning in Cambodia](https://wwfasia.awsassets.panda.org/downloads/mapping_and_valuing_ecosystem_services_in_mondulkiri_full_report.pdf)
+* Read [Ministry unveils action play set to guide Mindulkiri tourism evolution](https://www.phnompenhpost.com/business/ministry-unveils-action-plan-set-guide-mondulkiri-tourism-evolution)
 * Read [Prefab 'mobiles' homes](https://www.phnompenhpost.com/post-property/prefab-mobile-homes-popular-kingdoms-resorts-now-available-cottages-or-villas)
 * Read [Mekong Low Flow and Drought conditions 2019-2021](https://www.mrcmekong.org/resource/qx5yo7)
 

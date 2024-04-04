@@ -7,10 +7,10 @@
 * Client needs/ideas
   * Demands from clients 
 * Design idea
-  * Deisign a solution to a problem
+  * Design a solution to a problem
 * Testing
 * Design
-  * Design com from degisn ideas
+  * Design com from design ideas
   * Workshops
 * Prototype / model
   * Design a working prototype or model follows the design
@@ -33,9 +33,9 @@
   * User feedback
 * Deliver
   * Development
-  * Implimentation
+  * Implementation
 * Continue
-  * Maintanance
+  * Maintenance
 
 ## Detailed Process
 
@@ -47,10 +47,10 @@
 >     <IMG src="./assets/project/example32.jpg" alt="statemtn" width=30%/>
 > </details>
 
-#### Problem Statment
+#### Problem Statement
 
 * Defines the problem
-    * e.g Provide eletricity for 60 students
+    * e.g Provide electricity for 60 students
 * Defines what is needed
 * Guides the process
 * Critical thinking
@@ -59,11 +59,11 @@
     * Depends on the information gathered and generate probable solution
 
 > __EWB CHALLENGE__
-> * Problem to adress:
+> * Problem to address:
 >     * Read document 2023 EWB Challenge Design Brief with Pu Ngaol village in Mondlkin province available on `canvas`
 >     * Select your design topics by the end of **Week 3**
 > * Design context and information gathering
->     * Ultilise the backgrounf information that EWB have gathered
+>     * Utilise the background information that EWB have gathered
 >     * Available on `EWB website` and `canvas`
 
 #### Design requirements
@@ -71,7 +71,7 @@
 * Clear set of project requirements
 * Functions, objectives and constrains
 * Establish criteria (for evaluation and testing)
-    * e.g Goverment regulation, physical
+    * e.g Government regulation, physical
 
 > __EWB CHALLENGE__
 > * Project requirements
@@ -82,14 +82,14 @@
 > * Functions
 >     * Whats the design __must do__
 > * Constraints
->     * What the desgin __must have__
+>     * What the design __must have__
 >     * Legal requirements, safety requirements etc.
->     * Whithout these, the design is not eliigible for consideration
+>     * Without these, the design is not eligible for consideration
 > * Objectives
 >     * What the design __should be__
 >     * Typically the basis for criteria & used for design selection
 >
-> ##### Desgin Objectives
+> ##### Design Objectives
 > 
 > * Developments of Objective and constraints
 >     * Use the `Design Considerations`
@@ -101,7 +101,7 @@
 > </details>
 
 
-* Ideations (aka. brainstorm)
+* Ideation (aka. Brainstorm)
 * Functional analysis
     * Function of solutions
 * Morphological charts (more details on **WEEK 4**)
@@ -114,7 +114,7 @@
 > * refer to your project requirements
 > * Any overlap of ideas `=>` combine?
 > * Sketches, Photos, stick-it-notes
-> * Invites someone who doesn't know anything abt the project
+> * Invites someone who doesn't know anything about the project
 > * Document the methods and outcomes
 >     * Needed for your report `!!`
 
@@ -126,7 +126,7 @@
 > </details>
 
 * `optional` Testing
-    * Project managment
+    * Project management
     * Criteria
 
 ### Detailed Design and Prototyping
@@ -144,7 +144,7 @@
 #### Prototyping
 
 * In real life and industrial context, physical prototype is a *must*
-* Prototype must meet requirements, quality ot even standards
+* Prototype must meet requirements, quality of even standards
 
 ### Finalised
 
@@ -155,9 +155,9 @@
 
 * Fully documented design
     * Dimension, material , method of productions etc.
-    * Maintanance, training
-* Implimentation schedule
-* For manufatture, constructions
+    * Maintenance, training
+* Implementation schedule
+* For manufacture, constructions
 
 ### Additional Factors
 
@@ -173,11 +173,11 @@
 #### First stage of EWB Challenge
 
 * Executive summary
-* Introduction, including the indentification of information and selection of design area/project
+* Introduction, including the identification of information and selection of design area/project
 * Preliminary design requirements
 * Preliminary design solution(s)
 * Reflection on team work to date
-* Plan for delivery of the report at the end of semester, icluding `Work Breakdown Structure (WBS)` and `Grantt Chart`
+* Plan for delivery of the report at the end of semester, including `Work Breakdown Structure (WBS)` and `Grantt Chart`
 
 #### Expectations and Tips
 
@@ -189,7 +189,7 @@
 >     * Help each other and seek help
 > * Play to each others strengths
 > * Be organized
->     * Develop a project schedule & review this regularl
+>     * Develop a project schedule & review this regulars
 >     * Use [`doodle.com`](https://doodle.com) or other tool to find a time that suits
 
 #### Guidance & Reference from EWB
@@ -216,11 +216,11 @@
 ### Testing Standards
 
 * Methods
-    * Depnds on the standards:
+    * Depends on the standards:
         * In-house
         * Done on testing body:
             * e.g `ALS industrial`, `Bureu Veritas` tc.
-            * Testing body oftern certified to carry out certain tests by the `National Association of Testing Authorities`
+            * Testing body often certified to carry out certain tests by the `National Association of Testing Authorities`
 
 ### Integration into Design Standards
 
@@ -228,16 +228,16 @@
     * __Must__ comply to standards (_hard_ standard)
     * __Should__  comply to standards (_soft_ standard)
 
-* Multiple Standards can affest one product
+* Multiple Standards can affect one product
     * e.g `ASME` and `AS` standards compliance
     * Often duplicate requirements `=>` which on to take
         * Typically the most conservative
-    * Companies oftern writes their own standrdsm and have key suppliers & customers agree to their implementation
+    * Companies often writes their own standards and have key suppliers & customers agree to their implementation
 
 ### Compulsory of Standards
 
 * _Some_ standards are mandated by law, others are not
-* Uder civil law, failing to adhere to a standard could be viewed as ignoring best pratice
+* Under civil law, failing to adhere to a standard could be viewed as ignoring best practice
     * i.e Fail to carry out a duty of care that reasonable person would expect
 
 ```
@@ -253,7 +253,7 @@
 * Read the EWB Challenge design brief
     * `canvas` `=>` 2023 EWB Challenge Design Brief with Pu Ngaol village in Mondulkiri province
 
-* Deisgn Process:
+* Design Process:
     * Prescribed textbook
     * McCahan et al., Part 2. pp. 34-217 
 

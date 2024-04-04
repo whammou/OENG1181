@@ -1,4 +1,4 @@
-# Risk Managment
+# Risk Management
 
 ## Introduction
 
@@ -40,7 +40,7 @@
   <IMG src="./assets/w4-risk/example32.jpg" alt="context" width=70%/>
 </p>
 
-* Social, political, legal etx
+* Social, political, legal etc
 * History and trends
 * Relationships
 * Company processes
@@ -166,7 +166,7 @@
     <summary><b>EXAMPLE</b></summary>
     <IMG src="./assets/w4-risk/example37.jpg" alt="example" width=70%/> Normal
     <IMG src="./assets/w4-risk/example38.jpg" alt="conservative" width=70%/> More conservative
-    <IMG src="./assets/w4-risk/example39.jpg" alt="agressive" width=70%/> More agressive
+    <IMG src="./assets/w4-risk/example39.jpg" alt="agressive" width=70%/> More aggressive
   </p>
 </details>
 
