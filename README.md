@@ -40,6 +40,8 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lab 4 Risk Management [[note]](./lab4-risk.md)
 
+* Lab 5 Conceptual Design [[note]](./lab5-conceptual.md)
+
 ## Assessments
 
 |  Date|    Details       |  Due   	|
