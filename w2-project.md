@@ -78,7 +78,6 @@
 >     * Functions
 >     * Constraints
 >     * Objectives
-> 
 > * Functions
 >     * Whats the design __must do__
 > * Constraints
@@ -92,7 +91,8 @@
 > ##### Design Objectives
 > 
 > * Developments of Objective and constraints
->     * Use the `Design Considerations`
+>   * Use the `Design Considerations`
+
 ### Idea Generation
 
 > <details>
@@ -216,11 +216,11 @@
 ### Testing Standards
 
 * Methods
-    * Depends on the standards:
-        * In-house
-        * Done on testing body:
-            * e.g `ALS industrial`, `Bureu Veritas` tc.
-            * Testing body often certified to carry out certain tests by the `National Association of Testing Authorities`
+  * Depends on the standards:
+    * In-house
+    * Done on testing body:
+      * e.g `ALS industrial`, `Bureu Veritas` tc.
+      * Testing body often certified to carry out certain tests by the `National Association of Testing Authorities`
 
 ### Integration into Design Standards
 

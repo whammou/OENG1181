@@ -41,7 +41,8 @@ The `conceptual` design stage progress the project by moving from a defined prob
 
 ## Weighted Sum Model
 
-> Multi-Criteria Decision Analysis (MCDA) is suite of tools used in many parts of life to help with decision making, specifically when there is more than one criteria 
+> __Multi-Criteria Decision Analysis (MCDA)__:  
+> is suite of tools used in many parts of life to help with decision making, specifically when there is more than one criteria 
 
 * MCDA should be considered as a heuristic tool - it can help you make good decision but it is not necessarily the best or optimal decision
 
