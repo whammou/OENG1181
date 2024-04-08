@@ -16,7 +16,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 4 [Risk Management](w4-risk.md): Identify attributes, behaviours, and responsibilities expected of professional engineers.
 
-* Lecture 5 [Report writing](report.md): Write a professional engineering report.
+* Lecture 5 [Report writing](w5-report.md): Write a professional engineering report.
 
 * Lecture 7 [Career & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
