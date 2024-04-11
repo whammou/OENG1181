@@ -102,7 +102,7 @@
 
 #### TABLES AND FIGURES
 
-* Used to communicate `data`
+Used to communicate `data`
 * Must have `captions`
 * Must be referred to in the text
 * __Key principles__:
@@ -156,7 +156,6 @@
 #### LANGUAGE
 
 * Formal language
-
 ```
 ┌─────────┬─────────────┐
 │NO       │ YES         │
