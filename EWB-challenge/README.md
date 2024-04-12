@@ -59,6 +59,8 @@
 
 ### Challenge Outlines
 
+> Visit [Project Brief](./brief/area.md) 
+
 * Executive summary
 * Introduction, including the identification of information and selection of design area/project
 * Preliminary design requirements
@@ -91,15 +93,17 @@
 * Establish criteria (for evaluation and testing)
     * e.g Government regulation, physical
 
-> __DESIGN REQUIREMENTS TEMPLATE__
-> `files`: [[requirement]](./doc/Solutions.docx)
-
 ##### 2.1 Design Objectives
 
-* Developments of Objective and constraints
-  * Use the `Design Considerations`
+> Visit [Documentation](./requirements.md#design-objectives)
 
-> `files`: [[objective]](./doc/objective.docx) [[objectives1]](./doc/objective1.docx)
+##### 2.2 Design Constraints
+
+> Visit [Documentation](./requirements.md#design-constraints)
+
+##### 2.3 Design Considerations
+
+> Visit [Documentation](./requirements.md#design-considerations)
 
 #### 3. Idea Generation
 

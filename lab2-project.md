@@ -112,7 +112,7 @@ engineers/designer the solutions will always be wrong
 
 <IMG src="./assets/project/lab-example51.jpg" alt="pre-design" width=100%/>
 
-* Dicovery phase
+* Discovery phase
   * Generate insights
   * Divergent thinking
     * learn as much to what the client needs
