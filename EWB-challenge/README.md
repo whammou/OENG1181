@@ -78,13 +78,13 @@
 
 * Problem to address:
   * Read document 2023 EWB Challenge Design Brief with Pu Ngaol village in Mondlkin province available on `canvas`
-  * Select your design topics by the end of **Week 3**
+  * Select your design topics
 * Design context and information gathering
   * Utilise the background information that EWB have gathered
   * Available on `EWB website` and `canvas`
 
-> __DESIGN STATEMENT__
-> `insert design statment here`
+> __PROBLEM STATEMENT__
+> The goal of improving tourism in Pu Ngaol village is to provide the people with touristy awareness and to accelerate the incomes from tourism while respecting the cultural integrity and build a foundation for success in the future
 
 #### 2. Design Requirements
 
@@ -95,9 +95,17 @@
 
 ##### 2.1 Design Objectives
 
+* Developments of Objective and constraints
+  * Use the `Design Considerations`
+
 > Visit [Documentation](./requirements.md#design-objectives)
 
 ##### 2.2 Design Constraints
+
+* __Must__ comply to standards (_hard_ standard)
+* __Should__  comply to standards (_soft_ standard)
+* Multiple Standards can affect one product
+  * Often duplicate requirements `=>` Choose the most conservative
 
 > Visit [Documentation](./requirements.md#design-constraints)
 
@@ -107,15 +115,22 @@
 
 #### 3. Idea Generation
 
+| No. | Options                                         | 
+|:----|:------------------------------------------------|
+| 1   | [Education](./options.md#education)             | 
+| 2   | [Infrastructures](./options.md#infrastructures) | 
+| 3   | [Advertisement](./options.md#advertisement)     | 
+| 4   | [Cultural Exchange](./options.md#cultural)      | 
+
+
 ##### 3.1 Ideation
 
 * Ideation (aka. Brainstorm)
 * Functional analysis
     * Function of solutions
-* Morphological charts (more details on **WEEK 4**)
+* Morphological charts
 
-> __Solution Ideation__
-> `files`: [[solution]](./doc/Solutions.docx)
+> Visit [Spreadsheet](./doc/screening.xlsx)
 
 ##### 3.2 Screening
 
@@ -123,6 +138,6 @@
 
 * `Multi-Criteria Decision Analysis (MCDA)` is suite of tools used in many parts of life to help with decision making, specifically when there is more than one criteria 
  
-> `file`: [[WSM]](./doc/screening.xlsx)
+> Visit [Spreadsheet](./doc/screening.xlsx)
 
 
