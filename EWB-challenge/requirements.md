@@ -93,54 +93,13 @@ Ecotourism is a form of tourism marketed as "responsible" travel (using what pro
 
 #### 3. Advertisement
 
-> Advertise via sport events (e.g running, cycling, etc)
-* __Sustainability__ 
-  * Yearly 
-  * simple design enough to carry out by villagers
-* __Impacts on Community__
+* __Seasonality__: As mentioned, due to the natural climate of the local area the event is held in the _dry-season_. However, some considerations are made to hold such an event in the _wet-season_:
+  * The `wetness` of the running lane can be mitigate using a simple roof for the whole lane
+> Further information on the weather of the area is needed to implement such event during the _wet-season_
 
- ```
-┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
-│Positive                               │ Negative                                         │
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Opportunities to show off their culture│ Waste of human resources if implement incorrectly│
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Improve quality of life                │ (-)                                              │
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Connect the community                  │ (-)                                              │
-└───────────────────────────────────────┴──────────────────────────────────────────────────┘
- ```
-* __Impacts of environment__ 
+* __Forest Preservation__: The creation of the `running lane` can lead to cut down trees to the expand the lane or to plainly create the lane
 
-```
-┌──────────────────────────────┬─────────────────────────────────────────┐
-│Positive                      │ Negative                                │
-├──────────────────────────────┼─────────────────────────────────────────┤
-│Roads are regularly maintained│ increase in wastes (e.g plastic bottles)│
-└──────────────────────────────┴─────────────────────────────────────────┘
-
-```
-
-* __Community Engagement__ - 
-  * Points out the benefits for both parties (e.g financially, infrastructures) 
-  * `EWB` can help appoints inspectors, and workers to maintain the roads for the events
-* __Cost and Economics benefits__
-  * _Initial cost_: 
-    * 10km - 3 people/km =  $1200 / 0.5h
-  * _Potential benefits_:
-* __Material and Access__
-  * _Material_
-    * 10km - Ribbon
-    * Flags
-    * Supplies for runners
-  * _Transportation_
-    * 50 seats `bus` to `Pu Ngaol`
-    * `Bikes` are potentially good for transporting into the village
-* __Delivery and ongoing management__
-  * Construct and inspections can be done by villagers/volunteers
-* __Effective technical design__
-  * Minimal design - Cost effective, use less materials
-  * More tourists attraction sites
+* __Cultural and Social factors__: The increase in the visitors to the local ares can put stress on the local residents and infrastructures (e.g availability of the home stays [^1], too crowding leading to complication between locals and visitors
 
 #### 4. Workshop and cultural exchange programs
 

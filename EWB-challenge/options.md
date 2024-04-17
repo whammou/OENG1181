@@ -81,58 +81,42 @@ The design of centralized host houses should be sensitive to the cultural and so
 * `Forest Preservation`: 
 Centralizing host houses can help reduce pressure on forest resources by concentrating human activities in specific areas. By minimizing the need for new construction in forested areas, this solution can contribute to forest preservation efforts and biodiversity conservation.
 
-### 3. Advertisement
+### 3. Ad Campaign
 
-> Advertise via sport events (e.g running, cycling, etc)
-* __Sustainability__ 
-  * Yearly 
-  * simple design enough to carry out by villagers
-* __Impacts on Community__
+#### 3.1 General Considerations
 
- ```
-┌───────────────────────────────────────┬──────────────────────────────────────────────────┐
-│Positive                               │ Negative                                         │
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Opportunities to show off their culture│ Waste of human resources if implement incorrectly│
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Improve quality of life                │ (-)                                              │
-├───────────────────────────────────────┼──────────────────────────────────────────────────┤
-│Connect the community                  │ (-)                                              │
-└───────────────────────────────────────┴──────────────────────────────────────────────────┘
+* __Sustainability__: Ensure that the `advertisement` campaign are conducted in a simple manner to ensure the replication of such event in the future
+  * _Simple_: Requires few materials and minimal cost (e.g using available roads in the village instead of making a new one)
 
- ```
-* __Impacts of environment__ 
+* __Impact on Community__: An ad campaign can have a positive impact on the community by improving the awareness about the local areas and provides an opportunities to further the local tourism
 
-```
-┌──────────────────────────────┬─────────────────────────────────────────┐
-│Positive                      │ Negative                                │
-├──────────────────────────────┼─────────────────────────────────────────┤
-│Roads are regularly maintained│ increase in wastes (e.g plastic bottles)│
-└──────────────────────────────┴─────────────────────────────────────────┘
+* __Impact on Environment__: An increase in tourism can be bring about the good and the bad to the local area
+  * `(+)` Increasing awareness about the area and encourage funding to protect the wild lives in the area
+  * `(-)` Roads are used in the events are not always readily available and sometimes have to be made `=>`if manage poorly could lead to deforestation and other complex influences on the environment
 
+* __Community Engagement__: Running lane can be cultivate by the local workers. The task wouldn't so difficult that excess the expertise of the locals. Invoke awareness as to why the campaign is in the favor of the locals and not anybody else by hands out or talking to the villagers face-to-face
 
-```
+* __Economic Benefits__: Since the campaign is running in the favor of the locals it is natural that the village is the main benefactor. As to other, the campaign aims to provide the visitors/tourists with excellence experience
 
-* __Community Engagement__ - 
-  * Points out the benefits for both parties (e.g financially, infrastructures) 
-  * `EWB` can help appoints inspectors, and workers to maintain the roads for the events
-* __Cost and Economics benefits__
-  * _Initial cost_: 
-    * 10km - 3 people/km =  $1200 / 0.5h
-  * _Potential benefits_:
 * __Material and Access__
-  * _Material_
-    * 10km - Ribbon
-    * Flags
-    * Supplies for runners
-  * _Transportation_
-    * 50 seats `bus` to `Pu Ngaol`
-    * `Bikes` are potentially good for transporting into the village
-* __Delivery and ongoing management__
-  * Construct and inspections can be done by villagers/volunteers
-* __Effective technical design__
-  * Minimal design - Cost effective, use less materials
-  * More tourists attraction sites
+  * `Material`: The campaign aims to prioritize the use of local materials such as local available roads for running lanes, primitive materials for constructions of barriers such as(e.g wood, metal, wool)
+  * `Access`: The running lane is open for every candidate (e.g visitors, villagers, stakeholders, ..) 
+    * Due to the nature of the local area the campaign aims to delivery in the _dry season_ to avoid other complication
+
+* __Delivery and Ongoing Management__: Best human resources to management an ongoing event is the locals thus a protocol is established to exert safety for the event (e.g Trained locals will take on a roll as overseer during the event, the event can be remotely monitored via fly cam to take action asap in case complication arises, ...)
+
+* __Inclusion of All__: The campaign aims are "simple", "effective", "accessible" to ensure that the event can be replicated in the future by the villagers and bring about the effectiveness, and accessible to everybody
+
+#### 3.2 Specific Considerations
+
+* __Seasonality__: As mentioned, due to the natural climate of the local area the event is held in the _dry-season_. However, some considerations are made to hold such an event in the _wet-season_:
+  * The `wetness` of the running lane can be mitigate using a simple roof for the whole lane
+> Further information on the weather of the area is needed to implement such event during the _wet-season_
+
+* __Forest Preservation__: The creation of the `running lane` can lead to cut down trees to the expand the lane or to plainly create the lane
+
+* __Cultural and Social factors__: The increase in the visitors to the local ares can put stress on the local residents and infrastructures (e.g availability of the home stays [^1], too crowding leading to complication between locals and visitors
+
 
 ### 4. Workshop and cultural exchange programs
 
@@ -189,4 +173,6 @@ Consider seasonal variations and climate-related challenges when planning cultur
   * `Forest Preservation`
     * Promote cultural exchange activities that support sustainable land use practices and conservation efforts, such as guided forest walks or ecotourism initiatives.
     * Educate tourists about the importance of preserving the natural environment and biodiversity of the region, highlighting the cultural significance of forests to the Bunong people.
+
+[^1]: [Infrastructure](#infrastructures)
 

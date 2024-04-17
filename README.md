@@ -18,7 +18,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 5 [Report writing](w5-report.md): Write a professional engineering report.
 
-* Lecture 7 [Career & Reflection](carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
+* Lecture 7 [Career & Reflection](w7-carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
 * Lecture 8 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
