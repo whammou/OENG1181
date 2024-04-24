@@ -20,7 +20,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 7 [Career & Reflection](w7-carrer.md): Guess lecture from Mr. Eric Asato on Employability Skills and the Personal Program at RMIT.
 
-* Lecture 8 [Presenting & Ethics](presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
+* Lecture 8 [Presenting & Ethics](w8-presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
 * Lecture 9 [Reflection Writing](reflecion.md): Lecture on reflection writing.
 
