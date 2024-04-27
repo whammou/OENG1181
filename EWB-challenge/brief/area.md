@@ -61,8 +61,11 @@
 * __Construction__ - When a house is built the construction process will be coordinated by the most qualified community members 
   * `Carpenters` and `Builders` are not formally trained but learnt skills from the elders
 
-> [!IMPORTANT]
-> Termites occur in `Pu Ngaol` village is a serious problem
+* __Termites__ -  Occur in `Pu Ngaol` village is a serious problem.
+  * The base is made of concrete to reduce the presence of termites
+  * Termites eat soft woods, older houses built with `hardwood` are still in good conditions
+  * Termites like bamboo so people avoid cutting bamboo in certain 15 days in a month during the moon cycles when the sugar content is highest
+    * `=>` Cut when sugar content is lowest so the part of the ever growing tree will not attract termites and the quality of newly cut tree is the best
 
 #### Opportunities
 
