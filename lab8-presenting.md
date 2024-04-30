@@ -168,13 +168,13 @@ Design option is still just a concept, you might have an idea of what the `final
 </p>
 
 1. Once you have completed a round of `embodiment` you need to test that your solution actually work. There are many forms of testing that you can perform
-  * Physical testing `(optional)` - build a prototype
-  * User testing - review how a user engages with your product
+    * Physical testing `(optional)` - build a prototype
+    * User testing - review how a user engages with your product
 `=>` Adjust the design based on the testing results
 
 2. Moving onto `verification`. This is basically a fancy engineering term for checking
-  * Double check and meets each of the design constraints (make recommendation if does NOT)
-  * If solution if not verified and you have to make adjustments, then you might have to repeat the whole `preliminary design` cycle
+    * Double check and meets each of the design constraints (make recommendation if does NOT)
+    * If solution if not verified and you have to make adjustments, then you might have to repeat the whole `preliminary design` cycle
 
 3. `preliminary design` can be broken down into `embodiment`, `testing`, and `verification`
 
