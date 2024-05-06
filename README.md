@@ -22,7 +22,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 8 [Presenting & Ethics](w8-presenting.md): Present work to a Client. The concept on **Ethics** will be also introduced for an engineering project.
 
-* Lecture 9 [Reflection Writing](w9-reflecion.md): Lecture on reflection writing.
+* Lecture 9 [Reflection Writing](w9-reflection.md): Lecture on reflection writing.
 
 * Lecture 10 [Technical Viability](technical.md): Lecture session for the workshop of Technical Viability.
 
