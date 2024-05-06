@@ -40,8 +40,25 @@ The `UDDT` vaults serve the basic function of collecting and storing the `faeces
     * Moreover this vaults should be adequately ventilated to exhaust moisture and odours
 
 <p align="center">
-  <IMG src="./assets/vault.jpeg" alt="vault" width=100%/>
+  <IMG src="./assets/vault.jpeg" alt="vault" width=50%/>
 </p>
+
+#### Urine Collection System
+
+> The "Urine Collection System" `UCS` is designed to drain the urine without the need for flushing water. Urine can be discharged 
+> * Into an on-site infiltration system, a sewer connection
+> * into a storage vessel for reuse or for off-site disposal
+
+In summary the following three configurations for `UCs` are feasible:
+
+1. Undiluted urine from `UDDTs` and urinals is drained directly into `soak pits` for disposal or infiltration trenches for reuse/disposal
+2. Undiluted urine is collected from `UDDTs` and urinals in  containers and tanks to be stored and reused in the agriculture and transported for off-site disposal
+3. Urine id mixed with other wastewater streams, such as hand washing or shower water and discharged into a [Soak pit / infiltration trench](#soak-pits-and-infiltration-trenches)
+
+##### Soak Pits and Infiltration Trenches
+
+> __Soak Pit__
+> Also called a `soak way` or `leach pit`. Its a covered porous-walled chamber that allow water to slowly soak into the ground 
 
 
 

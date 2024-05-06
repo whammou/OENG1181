@@ -117,3 +117,13 @@ Human-centered design `HCD` is a design methodology that puts people at the hear
   Moylan arrow, that is the name of the little arrow next to the petrol pump symbol on your cars display which reminds you which side of the car the petrol cap is on. By the way, there is one person reading this whose life has changed because they now know this fact. I mean after all why would you want to have to remember which side the tank is on when that knowledge can be in the world. Yes after a while you might get to know which side yours is on but maybe you rent a car or borrow a car. Guess what? It was an engineer who invented the Moylan arrow and unsurprisingly his name was Moylan. 
 </details>
 
+## Topic 16 - Designing for Yirrganydji Country
+
+This week topic is a little different as you will have the chance to meet and discuss your design ideas with your client `EWB` and key stakeholder (Dawul Wuru Aboriginal Corporation) `DWAC`
+
+This inter-university event has been created to support you as you develop their design ideas, by having the chance to engage with project stakeholders and to learn about the community partner organisation `DWAC`
+* This session will include a guided discussion with speakers from `DWAC Q&A` 
+* And we will provide guidance on how you can ask appropriate questions of their stakeholders
+
+> Video Resource: [link](https://youtu.be/BY7BiostIO8)
+

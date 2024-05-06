@@ -46,7 +46,7 @@
 
 > Submission [sample](https://mega.nz/file/SOZUmDjS#YpiP3dbPv17pdHpRj6MocM_cAQe9sVBekfcyJ-j-ga4)
 
-* Respose to the specific design considerations outlined on the EWB [Challenge website](https://ewbchallenge.org)
+* Repose to the specific design considerations outlined on the EWB [Challenge website](https://ewbchallenge.org)
 * Evaluation of alternatives
 * Details of the conceptual design, analysis and final design
 * Identification of schedule and costs
