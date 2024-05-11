@@ -24,7 +24,7 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 
 * Lecture 9 [Reflection Writing](w9-reflection.md): Lecture on reflection writing.
 
-* Lecture 10 [Technical Viability](technical.md): Lecture session for the workshop of Technical Viability.
+* Lecture 10 [Technical Viability](w10-viability.md): Lecture session for the workshop of Technical Viability.
 
 * Lecture 11 [Design Project Support](design.md): EWB project work.
 
@@ -33,14 +33,13 @@ Lecture notes from OENG1181, taught by Dr. Stanley Luong. This course is a found
 ## Labs
 
 * Lab 1 Professional Portfolio [[assign]](https://mega.nz/file/GXhygKYS#s_f_yuPszi1t5CX1UXsQvWkeAEE8AKSPiVPQEOF5qnE) [[activity]](https://mega.nz/file/iXJDAIhA#KDsHEHFl0DcC232MpsfY40km3dNEMpsVfbFhIMSnZfg) [[note]](lab1-introduction.md)
-
 * Lab 2 Project Discovery [[note]](lab2-project.md)
-
 * Lab 3 Design Tutorial 3 [[note]](lab3-referencing.md)
-
 * Lab 4 Risk Management [[note]](./lab4-risk.md)
-
 * Lab 5 Conceptual Design [[note]](./lab5-conceptual.md)
+* Lab 8 Presenting & Ethic [[note]](./lab8-presenting.md)
+* Lab 9 Reflection Writing [[note]](./lab9-reflection.md)
+* Lab 10 Technical Viability [[note]](./lab10-vialbility.md)
 
 ## Assessments
 
